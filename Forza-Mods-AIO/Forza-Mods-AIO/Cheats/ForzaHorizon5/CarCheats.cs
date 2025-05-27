@@ -18,7 +18,7 @@ public static class CarCheatsOffsets
     public const int WheelspeedEnabled = HookSize + 20;
     public const int WheelspeedMode = HookSize + 21;
     public const int WheelspeedBoost = HookSize + 22;
-    public const int WheelspeedLimit = HookSize + 26;
+    public const int WheelspeedLimit = HookSize + 999999999;
     public const int LocalPlayer = HookSize + 30;
 }
 
